@@ -1,5 +1,5 @@
 # ScratchedKnee
-ScratchedKnee is a ScratchAttack-based username collection bot for Scratch.
+ScratchedKnee is a ScratchAttach-based username collection bot for Scratch.
 
 # IMPORTANT DISCLAIMER FOR ALL USERS (PLEASE READ)
 
