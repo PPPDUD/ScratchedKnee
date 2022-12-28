@@ -1,5 +1,5 @@
 import scratchattach as scratch3
-session = scratch3.login("PPPDUD", "bruno12345")
+session = scratch3.login("PPPDUD", "censored")
 user = session.get_linked_user()
 
 
